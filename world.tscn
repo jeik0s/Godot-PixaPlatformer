@@ -1,0 +1,39 @@
+[gd_scene load_steps=3 format=3 uid="uid://dxnqd6okiod61"]
+
+[ext_resource type="PackedScene" uid="uid://c8r67v52fud3s" path="res://block.tscn" id="1_nrfuv"]
+[ext_resource type="PackedScene" uid="uid://s4w082uvmo4r" path="res://player.tscn" id="2_7ydue"]
+
+[node name="World" type="Node2D"]
+
+[node name="Block" parent="." instance=ExtResource("1_nrfuv")]
+position = Vector2(45, 135)
+
+[node name="Block2" parent="." instance=ExtResource("1_nrfuv")]
+position = Vector2(63, 135)
+
+[node name="Block3" parent="." instance=ExtResource("1_nrfuv")]
+position = Vector2(81, 135)
+
+[node name="Block4" parent="." instance=ExtResource("1_nrfuv")]
+position = Vector2(99, 135)
+
+[node name="Block5" parent="." instance=ExtResource("1_nrfuv")]
+position = Vector2(99, 117)
+
+[node name="Block6" parent="." instance=ExtResource("1_nrfuv")]
+position = Vector2(117, 117)
+
+[node name="Block7" parent="." instance=ExtResource("1_nrfuv")]
+position = Vector2(117, 99)
+
+[node name="Block8" parent="." instance=ExtResource("1_nrfuv")]
+position = Vector2(135, 99)
+
+[node name="Block9" parent="." instance=ExtResource("1_nrfuv")]
+position = Vector2(153, 99)
+
+[node name="Block10" parent="." instance=ExtResource("1_nrfuv")]
+position = Vector2(171, 99)
+
+[node name="Player" parent="." instance=ExtResource("2_7ydue")]
+position = Vector2(45, 18)
