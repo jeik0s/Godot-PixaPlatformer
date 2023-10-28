@@ -15,3 +15,8 @@ https://www.youtube.com/watch?v=6n9IeOQB_Ew&list=PL9FzW-m48fn16W1Sz5bhTd1ArQQv4f
 https://www.youtube.com/watch?v=fevBckU1p6o&list=PL9FzW-m48fn16W1Sz5bhTd1ArQQv4f-Cm
  - Create frame animations
  - Adding animations to movment (running / jumping / idling)
+
+### DAY 4
+https://www.youtube.com/watch?v=-9wDi3Y08GM&list=PL9FzW-m48fn16W1Sz5bhTd1ArQQv4f-Cm&index=7
+<br/> https://www.nightquestgames.com/adding-collision-to-tilemaps-in-godot-4/ (Collisions)
+<br/> https://www.gotut.net/2d-tilemaps-in-godot-4/ (Tilesets / Bitmaps)
