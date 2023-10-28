@@ -1,0 +1,5 @@
+How to create collisions
+https://www.nightquestgames.com/adding-collision-to-tilemaps-in-godot-4/
+
+How to create tilesets and tiles map in general
+https://www.gotut.net/2d-tilemaps-in-godot-4/ 

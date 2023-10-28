@@ -17,7 +17,6 @@ var charVelocity = Vector2.ZERO
 
 func _ready():
 	animatedSprite.play("Idle")
-	
 	# CHECK ME!
 	# check how to change sprite
 	# animatedSprite.name("res://PlayerGreenSkin.tres")
@@ -64,6 +63,7 @@ func _physics_process(_delta):
 	
 func apply_gravity():
 		velocity.y += GRAVITY
+		velocity.y = min(velocity.y, 300)
 
 func apply_friction():
 	velocity.x = move_toward(velocity.x, 0, FRICTION)
