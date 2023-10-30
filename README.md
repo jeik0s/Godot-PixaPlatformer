@@ -22,3 +22,10 @@ https://www.youtube.com/watch?v=-9wDi3Y08GM&list=PL9FzW-m48fn16W1Sz5bhTd1ArQQv4f
 <br/> https://www.gotut.net/2d-tilemaps-in-godot-4/ (Tilesets / Bitmaps)
  - Creating tilesets and tilemaps that allows to making world easier
  - Set max fall player gravitation speed
+
+### DAY 5
+https://www.youtube.com/watch?v=NM8S8I5Q6y4&list=PL9FzW-m48fn16W1Sz5bhTd1ArQQv4f-Cm
+ - Player collision with environment 
+ - Node signals
+ - Node names
+ - Player Camera
