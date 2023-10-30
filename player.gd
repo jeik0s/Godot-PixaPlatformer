@@ -1,4 +1,5 @@
 extends CharacterBody2D
+class_name Player
 
 @export var JUMP_FORCE : int = -130
 @export var JUMP_RELEASE_FORCE : int = -70
