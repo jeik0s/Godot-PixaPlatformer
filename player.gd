@@ -34,10 +34,8 @@ func _physics_process(_delta):
 		animatedSprite.play("Run")
 		apply_acceleration(input.x);
 		
-		if input.x > 0:
-			animatedSprite.set_flip_h(true)
-		elif input.x < 0:
-			animatedSprite.set_flip_h(false)
+		animatedSprite.flip_h = input.x > 0
+	
 	
 	if is_on_floor():
 		if BUNNY_HOP:
