@@ -29,3 +29,8 @@ https://www.youtube.com/watch?v=NM8S8I5Q6y4&list=PL9FzW-m48fn16W1Sz5bhTd1ArQQv4f
  - Node signals
  - Node names
  - Player Camera
+
+### DAY 6
+https://www.youtube.com/watch?v=eadsGznaork&list=PL9FzW-m48fn16W1Sz5bhTd1ArQQv4f-Cm
+ - Make walking enemy
+ - Setup collsion layers & mask
