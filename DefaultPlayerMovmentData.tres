@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="PlayerMovementData" load_steps=2 format=3 uid="uid://b6tdo7srop3r3"]
+
+[ext_resource type="Script" path="res://PlayerMovmentData.gd" id="1_wip6s"]
+
+[resource]
+script = ExtResource("1_wip6s")
+JUMP_FORCE = -160
+JUMP_RELEASE_FORCE = -40
+MAX_SPEED = 75
+ACCELERATION = 10
+FRICTION = 10
+GRAVITY = 5
+ADDITIONAL_FALL_GRAVITY = 2
+BUNNY_HOP = true
