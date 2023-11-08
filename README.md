@@ -43,3 +43,10 @@ https://www.youtube.com/watch?v=qAtDGtlRJrI&list=PL9FzW-m48fn16W1Sz5bhTd1ArQQv4f
 https://www.youtube.com/watch?v=XIBrsZ3O29g&list=PL9FzW-m48fn16W1Sz5bhTd1ArQQv4f-Cm
  - Ladders
  - Player movement states
+
+### DAY 8
+https://www.youtube.com/watch?v=8wlQ5VCYFTI&list=PL9FzW-m48fn16W1Sz5bhTd1ArQQv4f-Cm
+ - Setting double jump
+ - Buffering the jump
+ - Coyote jump
+ - Clean up code

@@ -8,3 +8,5 @@ class_name PlayerMovementData
 @export var GRAVITY : int = 5
 @export var ADDITIONAL_FALL_GRAVITY : int = 2
 @export var BUNNY_HOP : bool = true
+@export var CLIMB_SPEED : int = 50
+@export var DOUBLE_JUMP_COUNT : int = 1;
