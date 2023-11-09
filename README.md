@@ -50,3 +50,10 @@ https://www.youtube.com/watch?v=8wlQ5VCYFTI&list=PL9FzW-m48fn16W1Sz5bhTd1ArQQv4f
  - Buffering the jump
  - Coyote jump
  - Clean up code
+
+### DAY 9
+https://www.youtube.com/watch?v=i3qLsszy8fQ&list=PL9FzW-m48fn16W1Sz5bhTd1ArQQv4f-Cm 33:30 / 39:04
+<br /> https://shaggydev.com/2022/09/27/godot-4-setter-getter/
+ - Create enemy paths
+ - Export enums as animation options(moving_spike_enemy.gd)
+ - setters and getters
